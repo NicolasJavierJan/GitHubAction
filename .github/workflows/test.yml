@@ -27,3 +27,5 @@ jobs:
         - name: Java?
           run: where java
           shell: bash
+        - name: Java2
+          run: java -version
