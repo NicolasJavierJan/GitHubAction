@@ -1,0 +1,29 @@
+# similar to json,
+# property, value
+# you can have arrays and objects
+
+name: lone
+age: 25
+address: "my way n1"
+active: true
+key:
+  key1: value1
+  key2: value2
+jsonObject: { key: value, key2: value2 }
+jobArray:
+  -item1
+  -item2
+myArray:
+  -item1
+  -{name: nico,
+    age: 27}
+longText: >
+  sadfasdf asfdasdf   fasdfasdf    sadfsdf
+  asdffff  sdfsadf
+  asdfasfasfasfasdfasdf
+nolfText: |
+  asdfssdfg asdf
+  asdfasdfasdf
+  asdf
+  aa
+
